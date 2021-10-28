@@ -29,6 +29,3 @@ Java, C++, Javascript, HTML, CSS, Bootstrap.
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sloth_2000)
 
-
-![Logo](https://media.istockphoto.com/vectors/working-at-home-coworking-space-and-home-office-concept-freelancer-vector-id1256213257?k=20&m=1256213257&s=612x612&w=0&h=Vnk0-0y08nLHIh8Iv5oMKEknDKhm2tZ37VenVu3FmhM=)
-
