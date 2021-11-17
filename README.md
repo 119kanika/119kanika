@@ -15,7 +15,7 @@ Java, C++, Javascript, jQuery, HTML, CSS, Bootstrap.
 
 
 ## Talking about personal stuff
-👩‍💻 I'm currently working on my JavaScript skills.
+👩‍💻 I'm currently working on my Node.js skills.
 
 🧠 I'm currently learning Data structures and algorithms.
 
