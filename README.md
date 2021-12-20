@@ -11,7 +11,7 @@ On my GitHub profile you'll find personal projects and experiments I've been wor
 
 
 ## 🛠 Skills
-Java, C++, Javascript, jQuery, HTML, CSS, Bootstrap.
+Java, C++, Javascript, jQuery, HTML, CSS and Bootstrap, .
 
 
 ## Talking about personal stuff
