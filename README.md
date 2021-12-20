@@ -17,8 +17,6 @@ Java, C++, Javascript, jQuery, HTML, CSS, Bootstrap, Node.js and Express.js.
 ## Talking about personal stuff
 👩‍💻 I'm currently working on my React skills.
 
-🧠 I'm currently learning Data structures and algorithms.
-
 📫 How to reach me: kanika.mahindroo@gmail.com
 
 
