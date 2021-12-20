@@ -11,11 +11,11 @@ On my GitHub profile you'll find personal projects and experiments I've been wor
 
 
 ## 🛠 Skills
-Java, C++, Javascript, jQuery, HTML, CSS, Bootstrap, Node.js.
+Java, C++, Javascript, jQuery, HTML, CSS, Bootstrap, Node.js and Express.js.
 
 
 ## Talking about personal stuff
-👩‍💻 I'm currently working on my React and Node.js skills.
+👩‍💻 I'm currently working on my React skills.
 
 🧠 I'm currently learning Data structures and algorithms.
 
