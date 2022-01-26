@@ -11,11 +11,11 @@ On my GitHub profile you'll find personal projects and experiments I've been wor
 
 
 ## 🛠 Skills
-Java, C++, Javascript, jQuery, HTML, CSS, Bootstrap, Node.js and Express.js.
+Java, C++, Javascript, jQuery, HTML, CSS, Bootstrap, Node.js, Express.js and MongoDB.
 
 
 ## Talking about personal stuff
-👩‍💻 I'm currently working on my React skills.
+👩‍💻 I'm currently working on my Backend skills.
 
 📫 How to reach me: kanika.mahindroo@gmail.com
 
