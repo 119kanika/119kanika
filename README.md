@@ -12,10 +12,11 @@ On my GitHub profile you'll find personal projects and experiments I've been wor
 
 ## 🛠 Skills
 Java, C++, Javascript, jQuery, HTML, CSS, Bootstrap, Node.js, Express.js and MongoDB.
+Devops: Docker, Kubernetes, Jenkins
 
 
 ## Talking about personal stuff
-👩‍💻 I'm currently working on my Backend skills.
+👩‍💻 I'm currently working on my Frontend skills.
 
 📫 How to reach me: kanika.mahindroo@gmail.com
 
