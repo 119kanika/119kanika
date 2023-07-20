@@ -12,6 +12,7 @@ On my GitHub profile you'll find personal projects and experiments I've been wor
 
 ## 🛠 Skills
 Java, C++, Javascript, jQuery, HTML, CSS, Bootstrap, Node.js, Express.js and MongoDB.
+
 Devops: Docker, Kubernetes, Jenkins
 
 
